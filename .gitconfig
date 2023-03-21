@@ -1,0 +1,5 @@
+[credential]
+	helper = wincred
+[user]
+	name = Mauro Ascul
+	email = mauro_ascul@hotmail.com
